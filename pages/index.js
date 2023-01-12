@@ -132,6 +132,7 @@ const Home = () => {
             </div>
           </div>
         </div>
+        
         {/* Add output container */}
         {img && (
           <div className="output-content">
